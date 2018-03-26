@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>IdentityManager</id>
+    <id>IdentityManager.MCM</id>
     <version>0.0.0</version>
     <title>IdentityManager</title>
     <authors>Brock Allen, Dominick Baier</authors>
@@ -9,7 +9,7 @@
     <projectUrl>https://github.com/IdentityManager/IdentityManager</projectUrl>
     <iconUrl>https://identityserver.github.io/Documentation/assets/images/icons/IDmanager_icon144.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>IdentityManager is an user management tool for MembershipReboot and ASP.NET Identity.</description>
+    <description>IdentityManager is an user management tool for MembershipReboot and ASP.NET Identity. MCM Fork</description>
     <copyright>Copyright 2015</copyright>
     <tags>IdentityManager Identity</tags>
     <dependencies>

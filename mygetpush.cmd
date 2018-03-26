@@ -1,1 +1,1 @@
-nuget push distribution\*.nupkg -Source https://www.myget.org/F/thinktecture/
+\nuget\nuget push distribution\*.nupkg -Source https://www.myget.org/F/thinktecture/
